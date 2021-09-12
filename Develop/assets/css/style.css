@@ -78,7 +78,7 @@ p {
   float: right;
   width: 20%;
   height: 100%;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: Trebuchet, Lucida, Arial, sans-serif;
   background-color: #2589bd;
 }
 
@@ -130,11 +130,10 @@ p {
   max-width: 150px;
 }
 
-.search-engine-optimization {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+.content {
+  overflow: auto;
+  width: 900px;
+  margin: 0 auto;
   background-color: #0072bb;
   color: #ffffff;
 }
@@ -143,7 +142,7 @@ p {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: Trebuchet, Lucida, Arial, sans-serif;
   background-color: #0072bb;
   color: #ffffff;
 }
@@ -152,7 +151,7 @@ p {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-family: Trebuchet, Lucida, Arial, sans-serif;
   background-color: #0072bb;
   color: #ffffff;
 }
@@ -187,8 +186,7 @@ p {
 .footer {
   padding: 30px;
   clear: both;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
+  font-family: Trebuchet, Lucida, Arial, sans-serif;
   text-align: center;
 }
 
